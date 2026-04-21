@@ -19,7 +19,7 @@
 🧩 I thrive at the intersection of **technology, design, and innovation.**  
 🧠 Currently exploring **AI, Cloud Deployment, and Advanced Laravel Architectures.**  
 📬 Reach me anytime → **`mshahinalam01@gmail.com`**  
-🌐 Explore more → [**shahinalam10.github.io**](https://github.com/shahinalam10)  
+🌐 Explore more → [**shahinalam-dev.github.io**](https://github.com/shahinalam-dev)  
 
 ---
 
