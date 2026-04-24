@@ -19,7 +19,7 @@
 🧩 I thrive at the intersection of **technology, design, and innovation.**  
 🧠 Currently exploring **AI, Cloud Deployment, and Advanced Laravel Architectures.**  
 📬 Reach me anytime → **`mshahinalam01@gmail.com`**  
-🌐 Explore more → [**shahinalam-dev.github.io**](https://github.com/shahinalam-dev)  
+🌐 Explore more → [shahinalam-dev.github.io](https://shahinalam-dev.github.io) 
 
 ---
 
@@ -76,11 +76,11 @@
    <a href="mailto:mshahinalam01@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/md-shahin-alam-b3a9b120b" target="_blank">
+  <a href="https://www.linkedin.com/in/shahinalamdev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/shahinalam10"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://shahinalam10.github.io"><img src="https://img.shields.io/badge/-Portfolio-00C4FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://github.com/shahinalam-dev"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://shahinalam-dev.github.io"><img src="https://img.shields.io/badge/-Portfolio-00C4FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
